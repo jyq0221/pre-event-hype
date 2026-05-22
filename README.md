@@ -9,22 +9,24 @@
 - `Pre-Event-Hype-Strategy.md`：策略设计文档
 - `Backtest-Results.md`：第一版简单回测报告
 - `data/events.csv`：历史发布会事件样本
-- `data/prices/`：Yahoo Finance 日线价格缓存
 - `scripts/backtest_pre_event_hype.py`：基础回测脚本
 - `scripts/sensitivity_backtest.py`：参数敏感性测试脚本
-- `results/`：回测输出结果
+- `results/backtest_summary.md`：基础回测摘要
+- `results/backtest_sensitivity.md`：参数敏感性测试摘要
+
+价格缓存文件会由脚本运行时自动生成到 `data/prices/`，未作为仓库必需文件提交。
 
 ## 运行方式
 
 ```bash
-python3 scripts/backtest_pre_event_hype.py
+python3 scripts/backtest_pre_event_hype.py --refresh-prices
 python3 scripts/sensitivity_backtest.py
 ```
 
-如需重新抓取价格数据：
+如果已经有本地价格缓存，之后可以直接运行：
 
 ```bash
-python3 scripts/backtest_pre_event_hype.py --refresh-prices
+python3 scripts/backtest_pre_event_hype.py
 ```
 
 ## 当前初步结论
