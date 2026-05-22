@@ -1,0 +1,36 @@
+ticker,company,event_name,event_date,event_type,source_url
+AAPL,Apple,WWDC 2020,2020-06-22,developer_conference,https://developer.apple.com/news/?id=03262020a
+AAPL,Apple,iPhone 12 Event,2020-10-13,product_launch,https://www.apple.com/newsroom/2020/10/apple-event-october-13-2020/
+AAPL,Apple,WWDC 2021,2021-06-07,developer_conference,https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/
+AAPL,Apple,iPhone 13 Event,2021-09-14,product_launch,https://www.apple.com/apple-events/september-2021/
+AAPL,Apple,WWDC 2022,2022-06-06,developer_conference,https://www.apple.com/newsroom/2022/04/apples-worldwide-developers-conference-returns-in-its-all-online-format/
+AAPL,Apple,iPhone 14 Event,2022-09-07,product_launch,https://www.apple.com/apple-events/september-2022/
+AAPL,Apple,WWDC 2023,2023-06-05,developer_conference,https://www.apple.com/newsroom/2023/03/apples-worldwide-developers-conference-returns-june-5/
+AAPL,Apple,iPhone 15 Event,2023-09-12,product_launch,https://www.apple.com/apple-events/september-2023/
+AAPL,Apple,WWDC 2024,2024-06-10,developer_conference,https://www.apple.com/newsroom/2024/03/apples-worldwide-developers-conference-returns-june-10-2024/
+AAPL,Apple,iPhone 16 Event,2024-09-09,product_launch,https://www.apple.com/apple-events/september-2024/
+AAPL,Apple,WWDC 2025,2025-06-09,developer_conference,https://www.apple.com/newsroom/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/
+NVDA,NVIDIA,GTC 2021,2021-04-12,developer_conference,https://www.nvidia.com/gtc/
+NVDA,NVIDIA,GTC 2022,2022-03-22,developer_conference,https://www.nvidia.com/gtc/
+NVDA,NVIDIA,GTC 2023,2023-03-21,developer_conference,https://www.nvidia.com/gtc/
+NVDA,NVIDIA,GTC 2024,2024-03-18,developer_conference,https://www.nvidia.com/gtc/
+NVDA,NVIDIA,GTC 2025,2025-03-18,developer_conference,https://www.nvidia.com/gtc/
+GOOGL,Alphabet,Google I/O 2021,2021-05-18,developer_conference,https://io.google/2021/
+GOOGL,Alphabet,Google I/O 2022,2022-05-11,developer_conference,https://io.google/2022/
+GOOGL,Alphabet,Google I/O 2023,2023-05-10,developer_conference,https://io.google/2023/
+GOOGL,Alphabet,Google I/O 2024,2024-05-14,developer_conference,https://io.google/2024/
+GOOGL,Alphabet,Google I/O 2025,2025-05-20,developer_conference,https://io.google/2025/
+MSFT,Microsoft,Build 2020,2020-05-19,developer_conference,https://build.microsoft.com/
+MSFT,Microsoft,Build 2021,2021-05-25,developer_conference,https://build.microsoft.com/
+MSFT,Microsoft,Build 2022,2022-05-24,developer_conference,https://build.microsoft.com/
+MSFT,Microsoft,Build 2023,2023-05-23,developer_conference,https://build.microsoft.com/
+MSFT,Microsoft,Build 2024,2024-05-21,developer_conference,https://build.microsoft.com/
+MSFT,Microsoft,Build 2025,2025-05-19,developer_conference,https://build.microsoft.com/
+META,Meta,Connect 2021,2021-10-28,developer_conference,https://www.meta.com/connect/
+META,Meta,Connect 2022,2022-10-11,developer_conference,https://www.meta.com/connect/
+META,Meta,Connect 2023,2023-09-27,developer_conference,https://www.meta.com/connect/
+META,Meta,Connect 2024,2024-09-25,developer_conference,https://www.meta.com/connect/
+META,Meta,Connect 2025,2025-09-17,developer_conference,https://www.meta.com/connect/
+AMD,AMD,Advancing AI 2023,2023-06-13,product_launch,https://www.amd.com/en/newsroom.html
+AMD,AMD,Advancing AI 2023 December,2023-12-06,product_launch,https://www.amd.com/en/newsroom.html
+AMD,AMD,Advancing AI 2024,2024-10-10,product_launch,https://www.amd.com/en/newsroom.html
